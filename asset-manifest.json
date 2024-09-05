@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/nais2sian/homework/static/css/main.a10aeee9.css",
-    "main.js": "//github.com/nais2sian/homework/static/js/main.3262715e.js",
-    "index.html": "//github.com/nais2sian/homework/index.html",
-    "main.a10aeee9.css.map": "//github.com/nais2sian/homework/static/css/main.a10aeee9.css.map",
-    "main.3262715e.js.map": "//github.com/nais2sian/homework/static/js/main.3262715e.js.map"
+    "main.css": "/homework/static/css/main.a10aeee9.css",
+    "main.js": "/homework/static/js/main.3262715e.js",
+    "index.html": "/homework/index.html",
+    "main.a10aeee9.css.map": "/homework/static/css/main.a10aeee9.css.map",
+    "main.3262715e.js.map": "/homework/static/js/main.3262715e.js.map"
   },
   "entrypoints": [
     "static/css/main.a10aeee9.css",
